@@ -1,7 +1,7 @@
 /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+ * To BinaryHeap for generic types, int, double, float...
+ *
+ * does not implement add, remove, findMin, etc...
  */
 package heaphelper;
 import static java.lang.Math.*;
